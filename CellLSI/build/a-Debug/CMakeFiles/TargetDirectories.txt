@@ -1,0 +1,8 @@
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/CellLSI.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/install.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/install/local.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/CellLSI_autogen_timestamp_deps.dir
+C:/Users/Admin/Documents/CellLSI/build/a-Debug/CMakeFiles/CellLSI_autogen.dir
